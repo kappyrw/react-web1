@@ -43,12 +43,16 @@ function App() {
               <img src={projectImage} alt="Lunch hour at Vella Coffee" />
               <h4>Vella Coffee Branding</h4>
             </div>
+            <div className='project-item'>
+              <img src={projectImage} alt="Lunch hout at vella coffee" />
+              <h4> vella coffee deliciou</h4>
+            </div>
           </div>
         </section>
       </main>
       
       <footer>
-        <p>&copy; 2024 Eric Kappy Graphic Design. All rights reserved.</p>
+        <p>&copy; 2024 Eric Graphic Design. All rights reserved.</p>
       </footer>
     </div>
   );
