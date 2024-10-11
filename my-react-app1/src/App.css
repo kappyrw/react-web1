@@ -94,7 +94,20 @@ main {
 .cta-button:hover {
   background-color: #ff4757;
 }
+.hire-button {
+  display: inline-block;
+  padding: 0.8rem 1.5rem;
+  background-color: #6bcbff;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
 
+.hire-button:hover {
+  background-color: #479aff;
+}
 .featured-work {
   padding: 4rem 2rem;
 }
